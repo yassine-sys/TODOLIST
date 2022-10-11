@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+header{
+  background: #1e651e;
+  padding: 8px;
+}
+header h1{
+  color: white;
+}
+.inputForm{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btnEdit{
+  margin-right: 5%;
+  text-decoration: none;
+  color: #2980b9;
+  background:white;
+}
+.btnDelete{
+  text-decoration: none;
+  color:red;
+  background:white;
+}
+.inputBtn{
+  margin-top: 5%;
+}
+.addtask{
+  background: #009432;
+}
